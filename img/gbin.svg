@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.89 595.28" style="enable-background:new 0 0 841.89 595.28;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3F7E31;}
+	.st1{fill:#99C556;}
+	.st2{fill:#7ABA46;}
+	.st3{fill:#2D2D2C;}
+	.st4{fill:#2B2B2B;stroke:#010202;stroke-miterlimit:10;}
+	.st5{fill:#3F7D31;}
+	.st6{fill:#174F25;stroke:#174F25;stroke-width:4;stroke-miterlimit:10;}
+	.st7{fill:#BFC1BF;}
+	.st8{fill:#FFFFFF;}
+	.st9{font-family:'MyriadPro-Regular';}
+	.st10{font-size:13px;}
+	.st11{fill:#188A37;}
+	.st12{font-size:14px;}
+	.st13{fill:#E5231E;}
+	.st14{fill:#6AB42D;}
+	.st15{fill:none;stroke:#6EB63A;stroke-width:2;stroke-miterlimit:10;}
+	.st16{fill:#E52421;}
+	.st17{font-size:12px;}
+</style>
+<polyline class="st0" points="188.76,20.36 158.94,91 651.21,91 621.4,20.36 "/>
+<line class="st1" x1="190.68" y1="19.36" x2="651.21" y2="19.36"/>
+<rect x="158.94" y="90.8" class="st2" width="492.26" height="497.44"/>
+<path class="st3" d="M556.9,86.46H257.25c-6.13,0-11.1-4.97-11.1-11.1V36c0-6.13,4.97-11.1,11.1-11.1H556.9
+	c6.13,0,11.1,4.97,11.1,11.1v39.36C568,81.49,563.03,86.46,556.9,86.46z"/>
+<path class="st4" d="M607.29,210.2h-403.6c-6.56,0-11.87-5.32-11.87-11.87v-72.33c0-6.56,5.32-11.87,11.87-11.87h403.6
+	c6.56,0,11.87,5.32,11.87,11.87v72.33C619.16,204.88,613.84,210.2,607.29,210.2z"/>
+<rect x="158.49" y="356.78" class="st5" width="492.72" height="230.28"/>
+<line class="st6" x1="158.49" y1="355.25" x2="651.21" y2="356.78"/>
+<g>
+	<path class="st7" d="M243.09,189.3h-24.18l-6.41-42.39h37.01L243.09,189.3z M220.82,187.09h20.42l5.75-37.96h-31.92L220.82,187.09z
+		"/>
+</g>
+<g>
+	<rect x="209.69" y="146.91" class="st7" width="42.61" height="2.21"/>
+</g>
+<g>
+	<path class="st7" d="M240.28,149.13h-18.58l3.83-7.45h10.91L240.28,149.13z M225.32,146.91h11.35l-1.55-3.02h-8.26L225.32,146.91z"
+		/>
+</g>
+<text transform="matrix(1 0 0 1 219.2598 168.1069)" class="st8 st9 st10">40%</text>
+<text transform="matrix(1 0 0 1 216.0737 202.2799)" class="st11 st9 st12">Bin 1</text>
+<g>
+	<path class="st7" d="M308.09,189.3h-24.18l-6.41-42.39h37.01L308.09,189.3z M285.82,187.09h20.42l5.75-37.96h-31.92L285.82,187.09z
+		"/>
+</g>
+<g>
+	<rect x="274.69" y="146.91" class="st7" width="42.61" height="2.21"/>
+</g>
+<g>
+	<path class="st7" d="M305.28,149.13h-18.58l3.83-7.45h10.91L305.28,149.13z M290.32,146.91h11.35l-1.55-3.02h-8.26L290.32,146.91z"
+		/>
+</g>
+<text transform="matrix(1 0 0 1 284.2598 168.1069)" class="st8 st9 st10">36%</text>
+<text transform="matrix(1 0 0 1 281.0737 202.2799)" class="st11 st9 st12">Bin 2</text>
+<g>
+	<path class="st7" d="M379.09,189.3h-24.18l-6.41-42.39h37.01L379.09,189.3z M356.82,187.09h20.42l5.75-37.96h-31.92L356.82,187.09z
+		"/>
+</g>
+<g>
+	<rect x="345.69" y="146.91" class="st7" width="42.61" height="2.21"/>
+</g>
+<g>
+	<path class="st7" d="M376.28,149.13h-18.58l3.83-7.45h10.91L376.28,149.13z M361.32,146.91h11.35l-1.55-3.02h-8.26L361.32,146.91z"
+		/>
+</g>
+<text transform="matrix(1 0 0 1 355.2598 168.1069)" class="st8 st9 st10">22%</text>
+<text transform="matrix(1 0 0 1 352.0737 202.2799)" class="st11 st9 st12">Bin 3</text>
+<g>
+	<path class="st7" d="M444.09,189.3h-24.18l-6.41-42.39h37.01L444.09,189.3z M421.82,187.09h20.42l5.75-37.96h-31.92L421.82,187.09z
+		"/>
+</g>
+<g>
+	<rect x="410.69" y="146.91" class="st7" width="42.61" height="2.21"/>
+</g>
+<g>
+	<path class="st7" d="M441.28,149.13h-18.58l3.83-7.45h10.91L441.28,149.13z M426.32,146.91h11.35l-1.55-3.02h-8.26L426.32,146.91z"
+		/>
+</g>
+<text transform="matrix(1 0 0 1 420.2598 168.1069)" class="st13 st9 st10">90%</text>
+<text transform="matrix(1 0 0 1 417.0737 202.2799)" class="st11 st9 st12">Bin 4</text>
+<text transform="matrix(1 0 0 1 296.0332 130.6002)" class="st14 st9 st12">FILL LEVEL</text>
+<line class="st15" x1="473.12" y1="124.24" x2="473.12" y2="200.08"/>
+<text transform="matrix(1 0 0 1 485.3203 144.0801)"><tspan x="0" y="0" class="st16 st9 st17">Bin 4 is full.</tspan><tspan x="0" y="14.4" class="st16 st9 st17">please open the </tspan><tspan x="0" y="28.8" class="st16 st9 st17">compartment below</tspan><tspan x="0" y="43.2" class="st16 st9 st17">and empty out the bin</tspan></text>
+</svg>
