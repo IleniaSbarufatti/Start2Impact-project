@@ -185,6 +185,8 @@ margin: 40px 0px 10px 0px;
   align-items: center;
   padding-top: 30px;
   text-align: center;
+  margin: 0 auto;
+
 }
 
 .contact_footer h3{
@@ -199,10 +201,22 @@ margin: 40px 0px 10px 0px;
   color: white;
 }
 
+.icon_footer img {
+  width:25px;
+  height: 25px;
+  margin-right: 4px;
 
+}
+
+.icon_footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 5px;
+}
 
 .contact_footer img.social {
-  margin: 0px 10px;
+  margin: 0px 10px 0px 0px;
 }
 
 /*About*/
@@ -360,59 +374,14 @@ h3.skill_title {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.15);
 }
 
-.card-img-1 {
+.card-img {
   height: 200px;
   width: 300px;
-  text-align: center;
-  margin: 0 auto;
-  background-image: url("img/gbin.svg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
 }
-
-.card-img-2 {
+.card-img img {
   height: 200px;
-  width: 300px;
-  text-align: center;
-  margin: 0 auto;
-  background-image: url("img/mycare_logo.png");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
-.card-img-3 {
-  height: 200px;
-  width: 300px;
-  text-align: center;
-  margin: 0 auto;
-  background-image: url("img/circle_wear.svg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
-.card-img-4 {
-  height: 200px;
-  width: 300px;
-  text-align: center;
-  margin: 0 auto;
-  background-image: url("img/jpic.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.card-img-5 {
-  height: 200px;
-  width: 300px;
-  text-align: center;
-  margin: 0 auto;
-  background-image: url("img/estetica_logo.png");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
+  width: auto;
+padding-top: 10px;
 }
 
 a.btn.btn-primary.findout {
@@ -825,6 +794,7 @@ p.parag {
   }
 
 
+
 }
 
 /*Desktop lg screen*/
@@ -844,6 +814,10 @@ p.parag {
     max-width: 960px;
     margin: 0 auto;
   }
+
+.page_calc {
+  min-height: calc(100vh - 400px - 200px - 100px - 68.5px);
+}
 
   .happy_designer {
     font-size: 28px;
@@ -954,7 +928,6 @@ p.parag {
   height: 800px;
   margin: 10px 3px;
 }
-
 
 }
 
