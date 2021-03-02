@@ -86,17 +86,16 @@ h2 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   width: 100%;
   background-image: url(img/home_img.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-
 }
 
 .titolo {
-  margin-top: 100px;
-  filter: brightness(100%);
+padding: 10px;
 }
 
 a.btn.btn-primary {
@@ -335,6 +334,7 @@ h3.skill_title {
 .header_title {
   max-width: 960px;
   margin: 0 auto;
+  padding: 10px;
 }
 
 .projects_head h1 {
@@ -431,7 +431,7 @@ a.btn.btn-primary.findout {
 
 .header_contact {
   height: 350px;
-  background-image: url("img/posta.png");
+  background-image: url("img/contact_header.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -443,7 +443,7 @@ a.btn.btn-primary.findout {
 }
 
 .contact_head h1 {
-  color: #C18497;
+  color: #0D0D0D;
 }
 
 .contact img {
@@ -490,6 +490,12 @@ p.contact-text {
 }
 
 /* MY CARE*/
+
+.project_intern a {
+  text-decoration: none;
+  color: #0D0D0D;
+}
+
 h1.project_intern {
   font-size: 30px;
   color: #0D0D0D;
@@ -537,9 +543,10 @@ img.app {
 
 .prototype {
   display: flex;
-  flex-direction: row;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
+
 
 .personas_card img {
   height: 100px;
@@ -569,6 +576,8 @@ img.gbin {
   height: 400px;
 }
 
+
+
 /* CRICLE WEAR */
 .graphic_header {
   height: 230px;
@@ -589,35 +598,35 @@ img.gbin {
   height: 60px;
   border-radius: 100%;
   background-color: #ffb4a2;
-  margin: 0px 10px;
+  margin: 5px 10px;
 }
 .colore2 {
   width: 60px;
   height: 60px;
   border-radius: 100%;
   background-color: #ffcdb2;
-  margin: 0px 10px;
+  margin: 5px 10px;
 }
 .colore3 {
   width: 60px;
   height: 60px;
   border-radius: 100%;
   background-color: #e5989b;
-  margin: 0px 10px;
+  margin: 5px 10px;
 }
 .colore4 {
   width: 60px;
   height: 60px;
   border-radius: 100%;
   background-color: #b88290;
-  margin: 0px 10px;
+  margin: 5px 10px;
 }
 .colore5 {
   width: 60px;
   height: 60px;
   border-radius: 100%;
   background-color: #7acade;
-  margin: 0px 10px;
+  margin: 5px 10px;
 }
 
 .logo-palette {
@@ -630,21 +639,24 @@ img.gbin {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  flex-wrap: wrap;
 }
 
 .icons img {
   width: 80px;
   height: 80px;
+  margin: 5px 0px;
 }
 
 .icons {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  flex-wrap: wrap;
 }
 
 .post img {
-  width: 400px;
+  width: 100%;
   height: auto;
 }
 
@@ -655,7 +667,7 @@ img.gbin {
 }
 
 .youtube img {
-  width: 700px;
+  width: 100%;
   height: auto;
   margin-bottom: 20px;
 }
@@ -666,7 +678,105 @@ img.gbin {
   align-items: center;
 }
 
+/* JPIC*/
 
+.jpic_logo {
+  width: 200px;
+  height: auto;
+}
+
+.brochure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.brochure img {
+  margin: 10px 10px;
+  width: 100%;
+  height: auto;
+}
+
+/* Centro estetica */
+
+.web_header {
+  height: 230px;
+  width: 100%;
+  background-image: url("img/web_header.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.estetica_logo {
+  width: 200px;
+  height: auto;
+}
+.colore1b {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  background-color: #492d22;
+  margin: 5px 10px;
+}
+.colore2b {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  background-color: #95654f;
+  margin: 5px 10px;
+}
+.colore3b {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  background-color: #b3a08f;
+  margin: 5px 10px;
+}
+.colore4b {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  background-color: #c46126;
+  margin: 5px 10px;
+}
+
+.typo1 h3 {
+  font-family: 'Mukta', sans-serif;
+  color: #492d22;
+  font-size: 30px;
+}
+
+.typo2 h3 {
+  font-family: 'Muli', sans-serif;
+}
+
+p.parag {
+  font-family: 'Muli', sans-serif;
+  font-size: 17px;
+}
+
+.typo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.wireframe img{
+  width: 300px;
+  height: auto;
+  margin: 10px 20px;
+  border: 2px solid #B0D0D3;
+  border-radius: 7px;
+  box-shadow: 5px 5px 5px #aaaaaa;
+}
+
+.wireframe {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 
 /* Mobile small screen*/
 @media only screen and (max-width: 767px){
@@ -687,21 +797,15 @@ img.gbin {
     justify-content: flex-end;
   }
 
-  .gbin-prototype {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
   .post img {
     margin-bottom: 20px;
   }
 
-  .youtube img {
-    width: 350px;
-    height: auto;
-    margin-bottom: 20px;
+  .gbin-img {
+    width: 300px;
+    height: 300px;
   }
+
 
 }
 
@@ -716,14 +820,10 @@ img.gbin {
     margin: 0 auto;
   }
 
-  .gbin-prototype {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
   .post img {
     margin-bottom: 20px;
   }
+
 
 }
 
@@ -826,6 +926,12 @@ img.gbin {
   height: 300px;
 }
 
+.prototype {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
 .logo-palette {
   display: flex;
   flex-direction: row;
@@ -842,6 +948,14 @@ img.gbin {
   flex-direction: row;
   justify-content: space-around;
 }
+
+.wireframe img{
+  width: auto;
+  height: 800px;
+  margin: 10px 3px;
+}
+
+
 }
 
 /*extra large screen
